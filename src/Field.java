@@ -1,3 +1,5 @@
+//Author: Logan Earl
+
 import java.util.*;
 
 public class Field {
@@ -122,5 +124,4 @@ public class Field {
             return points;
         }
     }
-
 }

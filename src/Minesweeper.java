@@ -1,3 +1,4 @@
+//Author: Logan Earl
 
 import java.io.IOException;
 import java.nio.file.Files;
